@@ -29,7 +29,7 @@ const sachintha = {
     motto: "Code with passion, debug with patience"
 };
 ```
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width=600 alt="My Animation" /> </p>>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width=400 alt="My Animation" /> </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
