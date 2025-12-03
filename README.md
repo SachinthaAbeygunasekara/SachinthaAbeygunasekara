@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+code;Always+learning%2C+always+growing;Passionate+about+clean+architecture)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 </div>
 
