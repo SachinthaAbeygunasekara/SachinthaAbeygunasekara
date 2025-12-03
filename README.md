@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px> Sachintha Abeygunasekara
+# <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px height=50px> Sachintha Abeygunasekara
 
 ### `Full-Stack Developer | Tech Enthusiast | Problem Solver`
 
@@ -29,7 +29,9 @@ const sachintha = {
     motto: "Code with passion, debug with patience"
 };
 ```
-![My Animation](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="My Animation" />
+</p>
 ---
 
 ## 🛠️ Tech Arsenal
