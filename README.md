@@ -25,7 +25,7 @@ const sachintha = {
 };
 ```
 
-- 🎓 **Education:** Undergraduate at University of Colombo School of Computing (UCSC)
+- 🎓 **Education:** Graduate at University of Colombo School of Computing (UCSC)
 - 🌱 **Currently Mastering:** Angular & Spring Boot ecosystem
 - 💼 **Looking to Collaborate:** Open-source projects & innovative web applications
 - 🎯 **2025 Goals:** Contribute to major open-source projects & build production-ready apps
@@ -68,10 +68,6 @@ const sachintha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinthaAbeygunasekara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinthaAbeygunasekara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
 --
 
 ## 🏆 GitHub Trophies
@@ -95,10 +91,10 @@ const sachintha = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinthaabeygunasekara123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinthaabeygunasekara123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
