@@ -114,7 +114,9 @@ const sachintha = {
 
 ### 💡 *"First, solve the problem. Then, write the code.""* – John Johnson
 
-![Snake animation](https://raw.githubusercontent.com/SachinthaAbeygunasekara/SachinthaAbeygunasekara/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SachinthaAbeygunasekara/SachinthaAbeygunasekara/main/output/github-contribution-grid-snake-light.svg" alt="GitHub Contribution Snake" />
+</p>
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
