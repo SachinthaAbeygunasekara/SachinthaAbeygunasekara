@@ -88,12 +88,12 @@ const sachintha = {
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 <p align="center">
-<a href="https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sachintha-abeygunasekara" height="50" width="50" /></a>
+<a href="https://facebook.com/your-facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha abeygunasekara" height="50" width="50" /></a>
+<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="sachintha_abey" height="50" width="50" /></a>
+<a href="mailto:sachinthaabeygunasekara123@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="50" width="50" /></a>
+<a href="https://your-portfolio.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="50" width="50" /></a>
 </p>
 
 </div>
