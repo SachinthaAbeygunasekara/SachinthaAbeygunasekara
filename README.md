@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 🚀 About Me
 
@@ -29,11 +29,7 @@ const sachintha = {
     motto: "Code with passion, debug with patience"
 };
 ```
-<p align="center">
-  <img src="https://sachinthaabeygunasekara.github.io/SachinthaAbeygunasekara/github-contribution-grid-snake.svg" 
-       alt="GitHub Contribution Snake" 
-       width="600"/>
-</p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width=600 alt="My Animation" /> </p>>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -92,12 +88,20 @@ const sachintha = {
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sachintha-abeygunasekara" height="50" width="50" /></a>
-<a href="https://facebook.com/your-facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha abeygunasekara" height="50" width="50" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="sachintha_abey" height="50" width="50" /></a>
-<a href="mailto:sachinthaabeygunasekara123@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="50" width="50" /></a>
-<a href="https://your-portfolio.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
+         alt="sachintha-abeygunasekara" height="50" width="50" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:sachinthaabeygunasekara123@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+         alt="email" height="50" width="50" style="margin: 0 10px;" />
+  </a>
+  <a href="https://your-portfolio.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" 
+         alt="portfolio" height="50" width="50" style="margin: 0 10px;" />
+  </a>
 </p>
+
 
 </div>
 
@@ -124,8 +128,6 @@ const sachintha = {
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
