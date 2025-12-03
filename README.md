@@ -17,21 +17,19 @@
 ```typescript
 const sachintha = {
     location: "Sri Lanka 🇱🇰",
-    education: "UCSC Undergraduate",
+    education: "Undergraduate at University of Colombo School of Computing (UCSC)",
     currentFocus: ["Angular", "Spring Boot", "Full-Stack Development"],
+    currentlyMastering: "Angular & Spring Boot ecosystem",
+    collaborateOn: "Open-source projects & innovative web applications",
+    goals2025: "Contribute to major open-source projects & build production-ready apps",
     interests: ["Web Development", "System Design", "Open Source"],
+    beyondCode: "Movie enthusiast & technology explorer",
+    reachMe: "sachinthaabeygunasekara123@gmail.com",
     funFact: "I turn coffee into code and debug with determination ☕",
     motto: "Code with passion, debug with patience"
 };
 ```
-
-- 🎓 **Education:** Graduate at University of Colombo School of Computing (UCSC)
-- 🌱 **Currently Mastering:** Angular & Spring Boot ecosystem
-- 💼 **Looking to Collaborate:** Open-source projects & innovative web applications
-- 🎯 **2025 Goals:** Contribute to major open-source projects & build production-ready apps
-- 🎬 **Beyond Code:** Movie enthusiast & technology explorer
-- 📧 **Reach Me:** [sachinthaabeygunasekara123@gmail.com](mailto:sachinthaabeygunasekara123@gmail.com)
-
+![My Animation](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 ---
 
 ## 🛠️ Tech Arsenal
