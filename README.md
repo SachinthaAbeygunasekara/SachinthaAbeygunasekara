@@ -14,24 +14,23 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120px">
-</p>
-
 ```typescript
 const sachintha = {
     location: "Sri Lanka 🇱🇰",
-    education: "Graduate at University of Colombo School of Computing (UCSC)",
+    education: "UCSC Undergraduate",
     currentFocus: ["Angular", "Spring Boot", "Full-Stack Development"],
-    currentlyMastering: "Angular & Spring Boot ecosystem",
-    collaborateOn: "Open-source projects & innovative web applications",
-    goals2025: "Contribute to major open-source projects & build production-ready apps",
     interests: ["Web Development", "System Design", "Open Source"],
-    beyondCode: "Movie enthusiast & technology explorer",
-    reachMe: "sachinthaabeygunasekara123@gmail.com",
     funFact: "I turn coffee into code and debug with determination ☕",
     motto: "Code with passion, debug with patience"
 };
+```
+
+- 🎓 **Education:** Graduate at University of Colombo School of Computing (UCSC)
+- 🌱 **Currently Mastering:** Angular & Spring Boot ecosystem
+- 💼 **Looking to Collaborate:** Open-source projects & innovative web applications
+- 🎯 **2025 Goals:** Contribute to major open-source projects & build production-ready apps
+- 🎬 **Beyond Code:** Movie enthusiast & technology explorer
+- 📧 **Reach Me:** [sachinthaabeygunasekara123@gmail.com](mailto:sachinthaabeygunasekara123@gmail.com)
 
 ---
 
@@ -69,7 +68,7 @@ const sachintha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinthaAbeygunasekara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
 </div>
 
----
+--
 
 ## 🏆 GitHub Trophies
 
