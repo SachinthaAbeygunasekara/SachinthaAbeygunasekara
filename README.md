@@ -68,7 +68,7 @@ const sachintha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinthaAbeygunasekara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
 </div>
 
---
+---
 
 ## 🏆 GitHub Trophies
 
