@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🚀 About Me
 
@@ -30,9 +30,12 @@ const sachintha = {
 };
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="My Animation" />
+  <img src="https://sachinthaabeygunasekara.github.io/SachinthaAbeygunasekara/github-contribution-grid-snake.svg" 
+       alt="GitHub Contribution Snake" 
+       width="600"/>
 </p>
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🛠️ Tech Arsenal
 
@@ -55,7 +58,7 @@ const sachintha = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📊 GitHub Analytics
 
@@ -68,7 +71,7 @@ const sachintha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinthaAbeygunasekara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
 </div>
 
---
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🏆 GitHub Trophies
 
@@ -76,7 +79,7 @@ const sachintha = {
   <img src="https://github-profile-trophy.vercel.app/?username=SachinthaAbeygunasekara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📈 Contribution Graph
 
@@ -84,7 +87,7 @@ const sachintha = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinthaAbeygunasekara&custom_title=Sachintha's%20Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🌐 Connect With Me
 
@@ -98,7 +101,7 @@ const sachintha = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 💭 Random Dev Quote
 
@@ -108,21 +111,21 @@ const sachintha = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
 
 ### 💡 *"First, solve the problem. Then, write the code.""* – John Johnson
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SachinthaAbeygunasekara/SachinthaAbeygunasekara/main/output/github-contribution-grid-snake-light.svg" alt="GitHub Contribution Snake" />
+  <img src="https://sachinthaabeygunasekara.github.io/SachinthaAbeygunasekara/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
