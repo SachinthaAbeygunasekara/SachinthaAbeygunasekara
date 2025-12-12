@@ -64,7 +64,7 @@ const sachintha = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaAbeygunasekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinthaAbeygunasekara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" /> -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=SachinthaAbeygunasekara&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
