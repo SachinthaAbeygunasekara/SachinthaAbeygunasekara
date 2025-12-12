@@ -75,6 +75,8 @@ const sachintha = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SachinthaAbeygunasekara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinthaAbeygunasekara&theme=darkhub" alt="Trophies" />
+    
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
