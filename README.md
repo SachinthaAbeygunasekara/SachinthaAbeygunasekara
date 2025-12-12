@@ -59,13 +59,12 @@ const sachintha = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&locale=en" alt="sahan99827"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaAbeygunasekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
 </div><br>
 
 <div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinthaAbeygunasekara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" /> -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=SachinthaAbeygunasekara&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
 
@@ -74,9 +73,7 @@ const sachintha = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinthaAbeygunasekara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinthaAbeygunasekara&theme=algolia" alt="Trophies" />
-    
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinthaAbeygunasekara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
