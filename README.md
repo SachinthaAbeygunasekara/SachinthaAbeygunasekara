@@ -59,7 +59,7 @@ const sachintha = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&show_icons=true&line_height=10&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="my Github Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&bg_color=00000000" alt="my Github Stats"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaAbeygunasekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
 </div><br>
