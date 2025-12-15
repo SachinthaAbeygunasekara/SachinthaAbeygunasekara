@@ -6,7 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+code;Always+learning%2C+always+growing;Passionate+about+clean+architecture)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<div align="center"> 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/)
+    &nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" />
+    [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://portfolio-2025-xi-brown.vercel.app/)
+</div>
 
 </div>
 
