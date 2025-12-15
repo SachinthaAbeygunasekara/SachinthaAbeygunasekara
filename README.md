@@ -8,9 +8,11 @@
 
 <div align="center"> 
     <a href="https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="linkedin-profile" />
-    </a>&nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="profile viewers" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="linkedin-profile"/>
+    </a>
+    &nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="profile viewers" />
+    &nbsp;&nbsp;
     <a href="https://sachinthaabeygunasekara.github.io/portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat" alt="portfolio-website" />
     </a>
