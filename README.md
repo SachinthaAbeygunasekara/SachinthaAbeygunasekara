@@ -10,7 +10,7 @@
     [![LinkedIn]()]()
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sachintha-abeygunasekara-06855a2a0/">
-        <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="linkedin-profile" />
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="linkedin-profile" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="profile viewers" />
     <img src="https://komarev.com/ghpvc/?username=SachinthaAbeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="porfolio-website" />
