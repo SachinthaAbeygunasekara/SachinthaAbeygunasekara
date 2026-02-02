@@ -63,6 +63,10 @@ const sachintha = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=sithija-jayasinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
    <img src="https://nirzak-streak-stats.vercel.app?user=SachinthaAbeygunasekara&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaAbeygunasekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SachinthaAbeygunasekara&theme=transparent&hide_border=false" alt="GitHub Streak" />
