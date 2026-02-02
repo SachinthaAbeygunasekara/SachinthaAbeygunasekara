@@ -63,7 +63,7 @@ const sachintha = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=sithija-jayasinghe&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=SachinthaAbeygunasekara&theme=dark&hide_border=true&border_radius=5&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
